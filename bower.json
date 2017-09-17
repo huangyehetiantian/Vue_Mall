@@ -1,0 +1,17 @@
+{
+  "name": "Vue_Mall",
+  "homepage": "https://github.com/huangyehetiantian/Vue_Mall",
+  "authors": [
+    "huangyehetiantian <282384585@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
